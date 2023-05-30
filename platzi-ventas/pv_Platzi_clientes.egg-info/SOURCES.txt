@@ -1,0 +1,8 @@
+pv.py
+setup.py
+pv_Platzi_clientes.egg-info/PKG-INFO
+pv_Platzi_clientes.egg-info/SOURCES.txt
+pv_Platzi_clientes.egg-info/dependency_links.txt
+pv_Platzi_clientes.egg-info/entry_points.txt
+pv_Platzi_clientes.egg-info/requires.txt
+pv_Platzi_clientes.egg-info/top_level.txt

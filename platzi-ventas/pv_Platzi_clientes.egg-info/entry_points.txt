@@ -1,0 +1,4 @@
+
+        [console_scrips]
+        pv=pv:cli
+    
